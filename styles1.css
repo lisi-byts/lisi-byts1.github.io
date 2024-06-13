@@ -1,3 +1,15 @@
 body{
     background-color: azure;
 }
+
+#info{
+    width: 55%;
+    margin: 5%;
+    padding: 2%;
+    float: left;
+    background-color: rgb(253, 252, 203);
+    border-radius: 5%;
+    border: 3px;
+    border-style:groove;
+    border-color: black;
+}

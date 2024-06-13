@@ -1,15 +1,33 @@
 body{
-    background-color: azure;
+    background-color: rgb(245, 245, 217);
 }
 
 #info{
-    width: 55%;
+    width: 35%;
     margin: 5%;
     padding: 2%;
-    float: left;
-    background-color: rgb(253, 252, 203);
+    background-color: rgb(252, 213, 219);
     border-radius: 5%;
     border: 3px;
     border-style:groove;
     border-color: black;
 }
+
+h2{
+    color: black;
+    text-align: start;
+}
+
+h1{
+    color:black;
+    text-align: start;
+}
+
+.texto{
+    width: 60%;
+    margin: 5%;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: justify;
+}
+

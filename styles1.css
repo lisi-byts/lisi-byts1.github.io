@@ -103,3 +103,30 @@ p{
     margin-top: 3%;
     float: left;
   }
+
+  .imagen1{
+    width: 10%;
+    margin-left: 7% ;
+    border-style: solid;
+    text-align: center;
+    border-color: white;
+  }
+
+  .imagen2{
+    width: 10%;
+    margin-left: 7% ;
+    border-style: solid;
+    text-align: center;
+    border-color: white;
+  }
+
+  
+  .imagen3{
+    width: 10%;
+    margin: 2% ;
+    border-style: solid;
+    text-align: center;
+    border-color: white;
+  }
+
+ 

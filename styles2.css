@@ -156,7 +156,7 @@ body{
 }
 
 .inicio2{
-    margin-top: 10%;
+    margin-top: 5%;
     width: 30% ;
     background-color: rgb(241, 239, 215);
     border-radius: 5%;
@@ -237,4 +237,9 @@ p{
     margin-right: 35%;
     text-decoration: none;
     float: right;
+  }
+
+  .mapache{
+    width: 15%;
+    margin-left: 10%;
   }

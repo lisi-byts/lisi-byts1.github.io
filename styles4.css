@@ -110,3 +110,22 @@ body{
     margin-left: 35%;
     text-decoration: none;
   }
+
+  .button2{
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #eb8161;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+    margin-bottom: 10px;
+    margin-right: 35%;
+    text-decoration: none;
+    float: right;
+  }

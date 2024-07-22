@@ -24,3 +24,10 @@ body{
     color: black;
     text-decoration: none;
 }
+
+.texto{
+    margin-top: 10%;
+    margin: 3%;
+    text-decoration:overline;
+    text-align: justify;
+}
